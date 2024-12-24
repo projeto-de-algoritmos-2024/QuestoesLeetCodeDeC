@@ -1,4 +1,4 @@
-# Grafos 1 Leet Code Exercícios
+# Dividir e conquistar Leet Code Exercícios
 
 **Número da Lista**: Sem Número<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar
