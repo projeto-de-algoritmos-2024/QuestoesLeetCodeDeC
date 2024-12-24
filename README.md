@@ -1,45 +1,60 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Grafos 1 Leet Code Exercícios
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: Sem Número<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0113321  | Francisco Mizael Santos da Silva |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Neste projeto de Dividir e conquistar, tem se como objetivo aplicar os conhecimento a respeito de grafos sobretudo, o estudo prático de algoritmos de dividir e conquistar, como, par de pontos mais próximos, merge sort, Algoritmo de Karatsuba, entre outros. Para isso foi realizado resoluções de exercícios de difícil Dificuldade, proposto no juiz digital [LeetCode](https://leetcode.com/) e no [Sphere](https://www.spoj.com/).
+
+## Questões
+| Questão | Dificuldade |
+| -- | -- |
+| [4](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=divide-and-conquer) | Difícil |
+| [CLOSEST](https://www.spoj.com/problems/CLOSEST/) | Difícil |
+
+### Source Codes
+- [4](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/Questao_4/Q4.cpp)
+- [CLOSEST](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/QuestaoClosest/ClosestTriplet.cpp)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Submit da Questão 4
+![Submissao](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/Questao_4/assets/Aceito.png "Exercicio Submetido")
+<br>
+
+### Submit da Questão CLOSEST
+![Submissao](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/Questao_Closest/assets/Aceito.png "Exercicio Submetido")
+<br>
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++<br>
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
+```
+ git clone https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC.git
+```
+```
+ cd Questoes/
+```
+Escolha uma questão que deseja rodar ou testar no [LeetCode](https://leetcode.com/), [Sphere](https://www.spoj.com).
+```
+ cd (Questão escolhida)
+```
+```
+ g++ (Questão escolhida).cpp a.out 
+```
+```
+./a.out
+```
+```
+escreva o conjunto de teste.
+```
+## Link dos vídeos
+[PA - DeC](https://youtu.be/jTam8w8GeV4)
 
 
