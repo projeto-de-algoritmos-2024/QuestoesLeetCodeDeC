@@ -18,24 +18,25 @@ The overall run time complexity should be O(log (m+n)).
 
 ### Exemplo 1
 >**Input:**
->   4
->   1 1
->   4 1
->   1 5
->   1000 1000
->   9
->   100000 200000
->   200000 200000
->   150000 286603
->   60000 140000
->   240000 140000
->   150000 340000
->   1 340000
->   300000 340000
->   150000 87087
+>   4,
+>   1 1,
+>   4 1,
+>   1 5,
+>   1000 1000,
+>   9,
+>   100000 200000,
+>   200000 200000,
+>   150000 286603,
+>   60000 140000,
+>   240000 140000,
+>   150000 340000,
+>   1 340000,
+>   300000 340000,
+>   150000 87087,
 >   -1
+
 >**Output:** 
->    12.000
+>    12.000,
 >    300000.796
 
 Entradas e saídas obtidas:
@@ -43,17 +44,17 @@ Entradas e saídas obtidas:
 Codigo de teste:
 <br>
 
-![TestesRodados](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/main/Questoes/QuestaoClosest/assets/CodigoTeste.png "TestesRodados")
+![TestesRodados](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/QuestaoClosest/assets/CodigoTeste.png "TestesRodados")
 
 Saída obtida:
 <br>
 
-![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/main/Questoes/QuestaoClosest/assets/OutputTeste.png "SaidasObtidas")
+![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/QuestaoClosest/assets/OutputTeste.png "SaidasObtidas")
 
 Para realização desta questão foi utilizado um como referência o algoritmo de dividir e conquistar clássico, especificamente o algoritmo de par de pontos próximos, porém adaptado para esta questão, uma vez que o desafio desta questão consiste em encontrar uma tripla de pontos próximos ao invés de um par.
 <br>
 
-![Submissao](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/main/Questoes/QuestaoClosest/assets/Aceito.png "Exercicio Submetido")
+![Submissao](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/QuestaoClosest/assets/Aceito.png "Exercicio Submetido")
 
 
 
