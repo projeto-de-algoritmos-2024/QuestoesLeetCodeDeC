@@ -19,16 +19,16 @@ Entradas e saídas obtidas:
 Codigo de teste:
 <br>
 
-![TestesRodados](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/Questao4/assets/CodigoTeste.png "TestesRodados")
+![TestesRodados](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/Questao_4/assets/CodigoTeste.png "TestesRodados")
 
 Saída obtida:
 <br>
 
-![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/Questao4/assets/OutputTeste.png "SaidasObtidas")
+![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/Questao_4/assets/OutputTeste.png "SaidasObtidas")
 
 Para realização desta questão foi utilizado um algoritmo de dividir e conquistar clássico, onde recebemos dois vetores já ordenados, e temos que buscar sua mediana. O desafio se encontra em como realizar esta operação.
 <br>
 
-![Submissao](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/Questao4/assets/Aceito.png "Exercicio Submetido")
+![Submissao](https://github.com/projeto-de-algoritmos-2024/QuestoesLeetCodeDeC/blob/master/Questoes/Questao_4/assets/Aceito.png "Exercicio Submetido")
 
 
